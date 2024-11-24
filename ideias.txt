@@ -1,0 +1,11 @@
+dividir o ecrã em dois, pondo o nosso interlocutor no lado esquerdo a fazer a pergunta e no lado direito, um ecrã com a boca e as frases
+
+definir uma velocidade mínima mais rápida para a queda das frases
+
+incorporar o elemento de pensamentos relacionados a cada opção (mostrar que não só há vários pensamentos mas mais pensamentos que surgem desses pensamentos)
+
+incluir um medicamento? XD (elimina as várias hipóteses, simulando a facilidade em descartar opções quando estás medicado)
+- isso da medicação pode ser algo que só ganhas à medida que sobes alguns níveis
+- imagina que no terceiro nível, desbloqueias medicação, mas é não uma medicação muito indicada xD e depois nos níveis mais acima, já tens uma medicação muita boa porque já acertaste na dose ahahaahahah
+
+imagina adicionar uma palavra especial que te faz desatar a falar buéééééé (essa teria que cair mais rápido, para ser difícil desviar xD
